@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidLVL3Homework1</string>
+    <string name="first_text_view">Счетчик 1</string>
+    <string name="second_text_view">Счетчик 2</string>
+    <string name="third_text_view">Счетчик 3</string>
+    <string name="default_button_text">Количество = 0</string>
+    <string name="part_button_text">Количество = %s</string>
+</resources>
